@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-renamer-file"
-description = "SigmaOS subsystem component for renamer-file"
+description = "Single & batch file renamer (pyRenamer-style)"
 version = "0.1.0"
 tier = 5
 
